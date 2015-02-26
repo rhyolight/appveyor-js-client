@@ -1,5 +1,8 @@
 # AppVeyor Client for Node.js
 
+[![NPM](https://nodei.co/npm/appveyor-js-client.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/appveyor-js-client/)
+
+
 This is an incomplete API client for the [AppVeyor API](http://www.appveyor.com/docs/api).
 
 ## Installation
