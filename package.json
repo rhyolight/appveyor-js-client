@@ -1,0 +1,26 @@
+{
+  "name": "appveyor-js-client",
+  "version": "0.0.1",
+  "description": "AppVeyor API Client for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhyolight/appveyor-js-client"
+  },
+  "keywords": [
+    "appveyor"
+  ],
+  "author": "Matthew Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhyolight/appveyor-js-client/issues"
+  },
+  "homepage": "https://github.com/rhyolight/appveyor-js-client",
+  "dependencies": {
+    "lodash": "^3.3.1",
+    "request": "2.53.0"
+  }
+}
