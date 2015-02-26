@@ -1,6 +1,6 @@
 {
   "name": "appveyor-js-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AppVeyor API Client for Node.js",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/rhyolight/appveyor-js-client",
   "dependencies": {
-    "lodash": "^3.3.1",
+    "lodash": "3.3.1",
     "request": "2.53.0"
   }
 }
