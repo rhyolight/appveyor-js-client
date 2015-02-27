@@ -34,7 +34,7 @@ appveyor.getProjects(function(err, projects) {
 
 ### Using Project API
 
-Each project returned is an [`AppVeyorProject`](lib/appveyor.js) object with the following functions:
+Each project returned is an [`AppVeyorProject`](lib/project.js) object with the following functions:
 
 - [`getLastBuild(callback)`](http://www.appveyor.com/docs/api/projects-builds#get-project-last-build)
 - [`getLastBuildBranch(branch, callback)`](http://www.appveyor.com/docs/api/projects-builds#get-project-last-branch-build)
